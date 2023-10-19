@@ -1,0 +1,14 @@
+C:\Users\Viviana Baez\source\repos\CalcularAreas\bin\Debug\net6.0\CalcularAreas.exe
+C:\Users\Viviana Baez\source\repos\CalcularAreas\bin\Debug\net6.0\CalcularAreas.deps.json
+C:\Users\Viviana Baez\source\repos\CalcularAreas\bin\Debug\net6.0\CalcularAreas.runtimeconfig.json
+C:\Users\Viviana Baez\source\repos\CalcularAreas\bin\Debug\net6.0\CalcularAreas.dll
+C:\Users\Viviana Baez\source\repos\CalcularAreas\bin\Debug\net6.0\CalcularAreas.pdb
+C:\Users\Viviana Baez\source\repos\CalcularAreas\obj\Debug\net6.0\CalcularAreas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viviana Baez\source\repos\CalcularAreas\obj\Debug\net6.0\CalcularAreas.AssemblyInfoInputs.cache
+C:\Users\Viviana Baez\source\repos\CalcularAreas\obj\Debug\net6.0\CalcularAreas.AssemblyInfo.cs
+C:\Users\Viviana Baez\source\repos\CalcularAreas\obj\Debug\net6.0\CalcularAreas.csproj.CoreCompileInputs.cache
+C:\Users\Viviana Baez\source\repos\CalcularAreas\obj\Debug\net6.0\CalcularAreas.dll
+C:\Users\Viviana Baez\source\repos\CalcularAreas\obj\Debug\net6.0\refint\CalcularAreas.dll
+C:\Users\Viviana Baez\source\repos\CalcularAreas\obj\Debug\net6.0\CalcularAreas.pdb
+C:\Users\Viviana Baez\source\repos\CalcularAreas\obj\Debug\net6.0\CalcularAreas.genruntimeconfig.cache
+C:\Users\Viviana Baez\source\repos\CalcularAreas\obj\Debug\net6.0\ref\CalcularAreas.dll
